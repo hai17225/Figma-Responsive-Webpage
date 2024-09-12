@@ -17,7 +17,7 @@ h1 {
 }
 
 h3 {
-    font-family: Inter;
+    font-family: "Inter", sans-serif;
     font-size: 24px;
     font-weight: 700;
     line-height: 29.05px;
@@ -117,11 +117,10 @@ h3 {
 }
 
 #content-container {
-    
     display: flex;
     flex-direction: column;
-    padding: 32px;
-    margin: 0px auto;
+    padding: 0px 32px 32px 32px;
+    margin: 0 auto;
     gap: 30px
 }
 
